@@ -8,6 +8,10 @@
 
 [Baskerville 02](https://dominicmcgrath46.github.io/john_baskerville/baskerville2.html)
 
+### 12 November
+
+[Baskerville 03](https://dominicmcgrath46.github.io/john_baskerville/baskerville3.html)
+
 ### Homework
 
 [History of Type](https://dominicmcgrath46.github.io/john_baskerville/brief-history-of-type.html)
