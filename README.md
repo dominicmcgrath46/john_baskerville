@@ -14,6 +14,6 @@
 
 ### Homework
 
-[History of Type](https://dominicmcgrath46.github.io/john_baskerville/brief-history-of-type.html)
+[History 01](https://dominicmcgrath46.github.io/john_baskerville/brief-history-of-type.html)
 
-[History List](https://dominicmcgrath46.github.io/john_baskerville/history_list.html)
+[History 02](https://dominicmcgrath46.github.io/john_baskerville/history_list.html)
