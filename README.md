@@ -16,6 +16,15 @@
 
 [Baskerville 04](https://dominicmcgrath46.github.io/john_baskerville/baskerville4.html)
 
+### 26 November
+
+<!--- baskerville 05----->
+
+### 03 December
+
+[Baskerville 06](https://dominicmcgrath46.github.io/john_baskerville/baskerville6%20copy.html)
+
+
 ### Homework
 
 [History 01](https://dominicmcgrath46.github.io/john_baskerville/history.1.html)
