@@ -16,9 +16,6 @@
 
 [Baskerville 04](https://dominicmcgrath46.github.io/john_baskerville/baskerville4.html)
 
-[History 04](https://dominicmcgrath46.github.io/john_baskerville/history.4.html)
-
-
 ### Homework
 
 [History 01](https://dominicmcgrath46.github.io/john_baskerville/history.1.html)
@@ -26,3 +23,5 @@
 [History 02](https://dominicmcgrath46.github.io/john_baskerville/history.2.html)
 
 [History 03](https://dominicmcgrath46.github.io/john_baskerville/history.3.html)
+
+[History 04](https://dominicmcgrath46.github.io/john_baskerville/history.4.html)
