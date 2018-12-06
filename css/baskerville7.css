@@ -1,0 +1,250 @@
+/* ------ CSS RESET ------ */
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+/* ------------ MAIN STYLING ---------- */
+
+body {
+    width: 75%;
+    max-width: 670px;
+    margin: auto;
+    background: #fafafa;
+    color: #333;
+    font-family: baskerville,serif;
+}
+
+/* ----------- TYPOGRAPHY ----------- */
+
+h1, h2, h3 {
+    font-weight: normal;
+    text-align: center;
+    font-family: libre, baskerville;
+}
+
+p, li, blockquote{
+    margin-bottom: 1.5em;
+    line-height: 1.5;
+}
+
+h1 {
+    color: grey;
+    font-size: 3.998em;
+    margin-top: 1em;
+    margin-bottom: 0.1em;
+    text-shadow: 3px 3px 0px #f0f0f0, 3px 3px 0px #333;
+}
+
+h2 {
+    font-size: 2.678em;
+    margin: 1em 0;
+    color: grey;
+    text-shadow: 3px 3px 0px #f0f0f0, 3px 3px 0px #333;
+}
+
+h3
+{
+    font-size: 1.999em;
+    font-family: libre, baskerville;
+    margin: 1em;
+}
+
+blockquote {
+    hanging-punctuation: first;
+    text-indent: -0.5em;
+}
+
+header h2 {
+    font-style: italic;
+    font-size: 2.35em;
+    line-height: 1.5;
+    margin-top: 0.1em;
+    color: #333;
+}
+
+.dropcap::first-letter{
+    float:left;
+    font-size: 4.7em;
+    line-height: 0.85em;
+    margin-right: 0px;
+}
+
+.dropcap1::first-letter{
+    float:left;
+    font-size: 4.7em;
+    line-height: 0.5em;
+    margin-right: 0px;
+}
+
+
+/* --------- STYLING LINKS ------------*/
+
+a{
+    color: #777;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #333;
+    border-bottom: 1px dotted;
+}
+
+/*-------- NAIGATION ------------*/
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: rgba(192,192,192,0.3);
+    padding: 1em 0;
+    font-size: 0.75em;
+    font-family: libre,baskerville;
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+}
+
+nav a:link {color: #fff}
+
+nav a:visited {color: #fff}
+
+nav a:hover {border-bottom: none;
+color:#000}
+
+/* ----------- BLOCKQUOTE -------*/
+
+blockquote {
+    padding: 1em 0 4em 0;
+    font-size: 1.75em;
+    line-height: 1.3;
+    color: #777;
+}
+
+blockquote cite {
+    font-size: 0.75em;
+}
+
+/*------------ IMAGES -------------*/
+
+img {
+    display: block;
+    margin: 4em auto;
+    padding: 0;
+    max-width: 100%;
+}
+/*------ TABLE -----*/
+
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+}
+
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: grey;
+}
+
+th, td {
+    padding: .6em;
+}
+
+table,td {
+    background:grey rgba(192,192,192,0.3);
+    border: 2px solid #fff;
+}
+
+/*----------- FOOTER ---------*/
+
+footer {
+    text-align: center;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    padding: 2em 0 4em 0;
+}
+
+hr {
+    margin: 1em 0;
+    height: 1px;
+    background-color: rgba(192,192,192,0.3);
+    color: grey;
+    border: 0 none
+}
+
+.connections {
+    position: relative;
+    margin: 0 auto;
+    margin: 20px,0;
+}
+.connections ul {
+    margin: 0;
+    padding: 0;
+}
+.connections li {
+    margin: 0 15px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+}
+.connections img{
+    opacity: 0.5;
+    border:none;
+}
+.connections a:hover img {
+    opacity: 1.0;
+    border-bottom: none;
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+}
+
+@media(max-width. 50em)
+    *{background color; aqua}
+body{
+    margin: auto;
+    font-size: 115%;
+    width: 85%
+}
+
+article{
+    width: 90%
+}
+
+@media(max-width: 30em){
+    
+    body{
+      margin: auto;
+        font-size: 120%;
+        width: 90%;
+    }
+    
+    h1 {font-size:3.25em }
+    
+    blockquote {font-size: 1.25em; line-height: 1.1em}
+    
+    article {
+        width: 100%
+    }
