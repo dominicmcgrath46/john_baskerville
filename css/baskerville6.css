@@ -22,7 +22,6 @@ body {
 
 h1, h2, h3 {
     font-weight: normal;
-    color: grey;
     text-align: center;
 }
 
@@ -32,10 +31,11 @@ p, li, blockquote{
 }
 
 h1 {
+    color: grey;
     font-size: 3.998em;
     margin-top: 1em;
     margin-bottom: 0.1em;
-    text-shadow: 3px 3px 0px #f0f0f0, 3px 3px 0px rgba(0,0,0,0,)
+    text-shadow: 3px 3px 0px #f0f0f0, 3px 3px 0px #333;
 }
 
 h2 {
@@ -46,6 +46,8 @@ h2 {
 h3
 {
     font-size: 1.999em;
+    margin: 1em;
+    font-style: italic;
 }
 
 blockquote {
@@ -170,7 +172,7 @@ hr {
     margin: 1em 0;
     height: 1px;
     background-color: rgba(192,192,192,0.3);
-    color: #c06;
+    color: grey;
     border: 0 none
 }
 
