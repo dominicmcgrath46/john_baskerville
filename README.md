@@ -18,10 +18,7 @@
 
 ### 26 November
 
-<!--- baskerville 05----->
-
 [Baskerville 05](https://dominicmcgrath46.github.io/john_baskerville/baskerville5.html)
-
 
 ### 03 December
 
