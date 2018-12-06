@@ -29,7 +29,7 @@
 
 ### 06 December
 
-[Baskerville 06](https://dominicmcgrath46.github.io/john_baskerville/baskerville7.html) 
+[Baskerville 07](https://dominicmcgrath46.github.io/john_baskerville/baskerville7.html) 
 
 ### Homework
 
