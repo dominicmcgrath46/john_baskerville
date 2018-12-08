@@ -160,7 +160,9 @@ img {
     margin: 4em auto;
     padding: 0;
     max-width: 100%;
+    border-radius: 50%;
 }
+
 /*------ TABLE -----*/
 
 table {
